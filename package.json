@@ -1,0 +1,30 @@
+{
+  "name": "gamerbot-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "better-sqlite3": "^7.6.2",
+    "chalk": "^5.3.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^14.13.0",
+    "ffmpeg-static": "^4.4.1",
+    "fs": "^0.0.1-security",
+    "mathjs": "^11.10.0",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "prompt-sync": "^4.2.0",
+    "quick.db": "^9.1.7",
+    "random-puppy": "^1.1.0",
+    "request-promise-native": "^1.0.9",
+    "superagent": "^8.1.2",
+    "weather-js": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
